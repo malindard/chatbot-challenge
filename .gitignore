@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+
+data/conversation_history.db
+data/*.db
+!data/schema.sql
+!data/init_db.py
+
+.docker/
