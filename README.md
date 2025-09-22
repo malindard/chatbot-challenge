@@ -95,11 +95,11 @@ Data pesanan customer
 ## 📚 Library & Framework
 
 ### Core Dependencies
-- **FastAPI** (0.104.1): Modern web framework untuk API
-- **Uvicorn** (0.24.0): ASGI server untuk FastAPI
-- **Langchain** (0.1.20): Framework untuk aplikasi LLM
-- **Langchain-Ollama** (0.1.0): Ollama integration untuk Langchain
-- **Pydantic** (2.5.0): Data validation dan serialization
+- **FastAPI**: Modern web framework untuk API
+- **Uvicorn**: ASGI server untuk FastAPI
+- **Langchain**: Framework untuk aplikasi LLM
+- **Langchain-Ollama**: Ollama integration untuk Langchain
+- **Pydantic**: Data validation dan serialization
 
 ### Infrastructure
 - **SQLite**: Database ringan untuk development
